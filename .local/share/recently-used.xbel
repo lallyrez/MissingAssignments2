@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lallyrezayani/untitled.mp3" added="2024-10-17T02:55:59.921170Z" modified="2024-10-22T05:00:25.205813Z" visited="2024-10-17T02:55:59.921184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-10-22T05:00:25.205806Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lallyrezayani/FirstAttempt" added="2024-10-22T04:50:31.581479Z" modified="2024-10-22T04:50:31.581527Z" visited="2024-10-22T04:50:31.581518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-10-22T04:50:31.581522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lallyrezayani/YouGOTthis" added="2024-10-22T05:00:01.846535Z" modified="2024-10-22T05:00:01.846574Z" visited="2024-10-22T05:00:01.846544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-10-22T05:00:01.846553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lallyrezayani/YouGOTthis.mp3" added="2024-10-22T05:00:44.954137Z" modified="2024-10-22T05:00:44.954146Z" visited="2024-10-22T05:00:44.954139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-10-22T05:00:44.954142Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lallyrezayani/TryAgain.mp3" added="2024-10-23T04:08:44.898900Z" modified="2024-10-23T04:12:31.144093Z" visited="2024-10-23T04:08:44.898908Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="audacity" exec="&apos;audacity %u&apos;" modified="2024-10-23T04:12:31.144056Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
