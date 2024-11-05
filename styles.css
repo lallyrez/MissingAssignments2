@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #AB341A;
+ }
+ 
+ h1 {
+   text-align: center;
+   font-size: 45px
+   
+   
+ }
+
+h2{
+  text-align: center;
+  font-size: 25px;
+  color:#FCDE56
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#assignmentsList {
+  margin-top:5px;
+}
+
+p {
+  text-align: center;
+  color: white;
+}
+
+
